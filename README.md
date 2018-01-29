@@ -5,6 +5,7 @@ Capsule Mechanical Designs.
 
 ## What is it?
 Fusion360 and Printable STL files for our capsule design. We will update this files as we progress towards a final design.
+(Shown files are preliminary and placeholders. Milestone designs coming soon.
 
 ## Requirements + Setup
 
